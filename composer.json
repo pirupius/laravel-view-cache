@@ -1,0 +1,13 @@
+{
+    "name": "pirupius/laravel-view-cache",
+    "description": "Russian Doll Caching",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pirupius",
+            "email": "piruville@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
